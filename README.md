@@ -44,3 +44,12 @@ Horiseon is made to give you full control over your business. Made to bring awar
 ###### CSS 4
 ![image]
 (https://github.com/garrettcodes/Garrett-Refactor/issues/10#issue-771508622)
+
+#### Tech/framework used
+Built with
+* Visual Studio Code
+
+#### Deploy Application
+(garrettcodes.github.io/garrett-refactor/)
+
+:smile:
