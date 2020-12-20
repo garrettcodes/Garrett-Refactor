@@ -49,6 +49,7 @@ Horiseon is made to give you full control over your business. Made to bring awar
 Built with
 * Visual Studio Code
 
-[Deploy Application] (garrettcodes.github.io/garrett-refactor/)
+#### Deploy Application
+[link] (garrettcodes.github.io/garrett-refactor/)
 
 :smile:
