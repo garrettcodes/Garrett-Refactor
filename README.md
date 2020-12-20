@@ -50,6 +50,6 @@ Built with
 * Visual Studio Code
 
 #### Deploy Application
-[link] (garrettcodes.github.io/garrett-refactor/)
+[link] ( https://garrettcodes.github.io/Garrett-Refactor/)
 
 :smile:
